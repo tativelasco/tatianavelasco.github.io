@@ -1,0 +1,3 @@
+[submodule "hugo-researcher"]
+	path = hugo-researcher
+	url = https://github.com/ojroques/hugo-researcher.git
